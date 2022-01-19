@@ -7,7 +7,7 @@ Sou estudante de _Sistemas para Internet_ pela Faculdade UniSociesc - Blumenau.
 
 ![Isso é uma imagem](https://media.giphy.com/media/3oEdv1vkhqxcynkB5C/giphy.gif)
 
-Iniciei o curso de Programção em C#, Black-en. <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+Aprendiz da linguagem de Programção em C#, Black-en. <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 ![Isso é uma imagem](https://media.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.gif) 
 
